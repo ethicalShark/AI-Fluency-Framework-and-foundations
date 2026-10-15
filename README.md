@@ -33,7 +33,6 @@ Evaluating AI outputs. Description and Discernment work together through continu
 Ensuring you interact with AI responsibly.
 
 ## Generative AI
-AI generates content based on a prompt (e.g., an email).
 
 ### 3 Pillars
 - **Algorithms**
